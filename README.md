@@ -1,5 +1,6 @@
 # Hi there my name is Sol, or you can call me Max(well)
-
+Visit my [instagram!](https://instagram.com/entropax)
+If you like books and street workout ;)
 <!--
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
