@@ -43,7 +43,7 @@ If you like books and street workout ;)
 
 
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="activity.svg"></a>
 <!--
 <p align="center"> 
   Visitor count<br>
