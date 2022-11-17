@@ -40,3 +40,13 @@ If you like books and street workout ;)
 -->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 <!--[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)-->
+
+
+
+<a href=#><img src="contributions.svg"></a>
+<!--
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/entropax/count.svg" />
+</p>
+-->
