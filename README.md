@@ -1,6 +1,8 @@
 # Hi there! My name is Sol and you can call me Max(well)
-Visit my [instagram!](https://instagram.com/entropax)
-If you like books and street workout ;)
+
+If you like books and street workout 
+Visit my [instagram!](https://instagram.com/entropax) ;)
+Have a nice day!)
 <!--
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
@@ -14,7 +16,7 @@ If you like books and street workout ;)
 - 💬 Ask me about ...
 -->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
