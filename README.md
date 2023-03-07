@@ -17,14 +17,16 @@ Have a nice day!)
 -->
 
 ## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
+
+[![Python](https://img.shields.io/badge/Python-000011?logo=python&logoColor=green)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-2fa44f?logo=django&logoColor=green)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/static/v1?label=FastApi&message=Bro&color=2ea44f&logo=fastapi&logoColor=green)](https://flask.palletsprojects.com/)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-[![Python](https://img.shields.io/badge/-Python-aba637?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <!--
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -34,15 +36,13 @@ Have a nice day!)
 <!--![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)-->
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![NeoVim](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=neovim)
+![NeoVim](https://img.shields.io/badge/-NeoVim-%23007ACC?style=flat-square&logo=neovim)
 
-<!--[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)-->
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-<!--[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
--->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 <!--[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)-->
-
+<!--[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)-->
 
 
 <a href=#><img src="activity.svg"></a>
