@@ -14,6 +14,7 @@ Have a nice day!)
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 -->
+<a href="./my-personal-key.gpg" target="_blank"> <img alt="" src="https://img.shields.io/badge/🔒my%20public%20key.gpg-4C642CF56CE16EE5-blue?style=flat-square&labelColor=090909"></a>
 
 ## 𝗠𝘆 𝗦𝘁𝗮𝗰𝗸
 
