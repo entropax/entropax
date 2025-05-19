@@ -1,7 +1,6 @@
-# Hi there! My name is Sol and you can call me Max(well)
-
-If you like books and street workout 
+# Hi there! My name is Max(well)
 Have a nice day!)
+
 <!--
 - 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 - 👋 My personal [blog](https://pr2tik1.github.io/blog/)
